@@ -1,7 +1,7 @@
 body {
     background: rgb(64, 137, 185);
 }
-h1 {
+h1, p {
     color: white;
     font-family: helvetica;
  }
@@ -29,6 +29,6 @@ h1 {
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #da771b;
+    background-color: #5e8c5b;
     color: white;
   }
